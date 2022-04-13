@@ -18,9 +18,6 @@ Meu nome é Evelin gosto muito de tecnologia e estou aprendendo a programar.
 <div align="center">
   <a href="https://www.linkedin.com/in/evelin-gomes-a84840175/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
   
-  ![](https://visitor-badge.glitch.me/badge?page_id=EvelinGomes)
-</div>
-
 <!--
 **EvelinGomes/EvelinGomes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
